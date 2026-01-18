@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 Snapshot
+## Snapshot
 
 > I design systems that scale, automate chaos, and feel fast in production.  
 > Backend-first thinker with a soft spot for clean APIs, async workflows, and AI-powered tooling.
@@ -34,7 +34,7 @@
 
 ## 🧩 What I Build
 
-| 🌊 | |
+| | |
 |---|---|
 | ⚙️ **Distributed Backends** | Event-driven, fault-tolerant services |
 | ☁️ **Cloud-Native Systems** | AWS, containers, CI/CD |
@@ -45,36 +45,36 @@
 
 ## 🛠️ Tech Tiles
 
-### 👨‍💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,go,js,c,cpp,rust,bash"/>
 </p>
 
-### 🌐 Backend & Web
+### Backend & Web
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,django,flask,react,ts"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions"/>
 </p>
 
-### 🔄 Messaging & Observability
+### Messaging & Observability
 <p>
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,prometheus,grafana"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| 🚀 Project | ⚡ What it is |
+| Project | What it is |
 |-----------|---------------|
 | **Job Genie** | AI-powered recruiter assistant |
 | **No-Code NLP Trainer** | Train NLP models without code |
@@ -90,7 +90,7 @@
 ## 🎓 Focus
 
 🎓 **M.S. Computer Science — University at Buffalo**  
-📚 Distributed Systems • Cloud • OS • AI / ML
+Distributed Systems • Cloud • OS • AI / ML
 
 ---
 
