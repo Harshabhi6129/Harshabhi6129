@@ -1,7 +1,9 @@
 <!-- ===================== BUBBLE HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blob&color=0:7F00FF,50:00C6FF,100:7F00FF&height=240&section=header&text=Harsha%20Kusampudi&fontSize=42&fontColor=ffffff&animation=gradient&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=blob&color=0:7F00FF,50:00C6FF,100:7F00FF&height=230&section=header&animation=gradient" />
 </p>
+
+<h1 align="center">Harsha Kusampudi</h1>
 
 <h3 align="center">
   Engineer • Builder • Explorer
@@ -72,7 +74,7 @@
 
 ---
 
-## 🚀 Featured Projects (Quick View)
+## 🚀 Featured Projects
 
 | 🧪 Project | ⚡ What it is |
 |----------|---------------|
@@ -90,7 +92,7 @@
 ## 🎓 Focus
 
 🎓 **M.S. Computer Science — University at Buffalo**  
-📚 Distributed Systems • Cloud • OS • AI/ML
+📚 Distributed Systems • Cloud • OS • AI / ML
 
 ---
 
@@ -136,12 +138,5 @@
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?
-type=blob
-&color=0:00C6FF,100:7F00FF
-&height=120
-&section=footer
-&animation=gradient" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=blob&color=0:00C6FF,100:7F00FF&height=120&section=footer&animation=gradient" />
 </p>
