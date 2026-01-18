@@ -1,9 +1,13 @@
 <!-- ===================== BUBBLE HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blob&color=0:7F00FF,50:00C6FF,100:7F00FF&height=230&section=header&animation=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=blob&color=0:7F00FF,50:00C6FF,100:7F00FF&height=230&section=header" />
 </p>
 
 <h1 align="center">Harsha Kusampudi</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/gradient.svg" />
+</p>
 
 <h3 align="center">
   Engineer • Builder • Explorer
