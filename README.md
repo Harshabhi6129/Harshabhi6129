@@ -20,7 +20,7 @@
   &nbsp;
   <a href="https://medium.com/@harsha6129abhi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   &nbsp;
-  <a href="[(https://drive.google.com/file/d/1RS9L7F7Adazi4lwyCiNkqfuNJsg9OY5d/view?usp=sharing)"><img src="https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1RS9L7F7Adazi4lwyCiNkqfuNJsg9OY5d/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   &nbsp;
   <a href="https://link.springer.com/chapter/10.1007/978-981-97-6318-4_28"><img src="https://img.shields.io/badge/Research-B31B1B?style=for-the-badge&logo=springer&logoColor=white"/></a>
 </p>
